@@ -10,5 +10,5 @@ services:
   backend:
     build: ./back
     ports:
-      - "80:8000"
+      - "8000:8000"
       
